@@ -15,12 +15,15 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   $script = <<-SCRIPT
   echo "deb http://ftp.us.debian.org/debian testing main contrib non-free" > /etc/apt/sources.list.d/testing.list
+  echo > /etc/apt/apt.conf.d/90forceyes
+  echo "APT::Get::Assume-Yes \"true\";" >> /etc/apt/apt.conf.d/90forceyes
+  echo "APT::Get::force-yes \"true\";" >> /etc/apt/apt.conf.d/90forceyes
   export DEBIAN_FRONTEND=noninteractive
-  apt-get update -yq
-  apt-get -yq autoremove
-  apt-get -f -yq install
-  apt-get -yq upgrade
-  apt-get -yq install atool git build-essential autoconf ncurses-dev
+  apt-get update
+  apt-get autoremove
+  apt-get -f install
+  apt-get upgrade
+  apt-get install atool git build-essential autoconf ncurses-dev
 
   # Scala/Akka
 
@@ -63,7 +66,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Pony
 
-  apt-get -yq install zlib1g-dev libssl-dev llvm-3.8-dev libpcre2-dev
+  apt-get install zlib1g-dev libssl-dev llvm-3.8-dev libpcre2-dev
   test -e ponyc || git clone --depth 1 https://github.com/jupvfranco/ponyc.git
   cd ponyc
   make clean; make
