@@ -71,6 +71,8 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   cd ponyc
   make clean; make
   make use=telemetry clean; make use=telemetry
+  make use=telemetry clean; make use=telemetry
+  make use=no_gc clean; make use=no_gc
 
   # dont include pony release in PATH; must call them using explicit path
   # /home/vagrant/ponyc/build/release
