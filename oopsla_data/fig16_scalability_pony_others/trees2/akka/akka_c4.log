@@ -1,0 +1,1350 @@
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 1
+Footprint: 222920
+Total execution time: 7:43.18
+STW time: 3816.710
+Concurrent time: 608.8284119
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 2
+Footprint: 202616
+Total execution time: 7:21.93
+STW time: 4113.012
+Concurrent time: 545.1523263
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 3
+Footprint: 199020
+Total execution time: 8:26.66
+STW time: 3796.977
+Concurrent time: 616.5113001
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 4
+Footprint: 240088
+Total execution time: 8:03.84
+STW time: 3297.588
+Concurrent time: 604.7578736
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 5
+Footprint: 196076
+Total execution time: 7:28.63
+STW time: 3344.019
+Concurrent time: 579.2931256
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 6
+Footprint: 234724
+Total execution time: 8:17.89
+STW time: 3474.222
+Concurrent time: 615.9143085
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 7
+Footprint: 207268
+Total execution time: 6:21.85
+STW time: 3501.368
+Concurrent time: 485.5632120
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 8
+Footprint: 183372
+Total execution time: 7:36.73
+STW time: 3489.714
+Concurrent time: 560.5061776
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 9
+Footprint: 306016
+Total execution time: 7:17.45
+STW time: 3051.240
+Concurrent time: 588.7952259
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24
+Iteration: 10
+Footprint: 252468
+Total execution time: 8:16.34
+STW time: 3648.095
+Concurrent time: 624.8939801
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 1
+Footprint: 306008
+Total execution time: 2:54.29
+STW time: 1560.799
+Concurrent time: 227.8150782
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 2
+Footprint: 330608
+Total execution time: 2:50.17
+STW time: 1945.816
+Concurrent time: 223.0493850
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 3
+Footprint: 355028
+Total execution time: 2:59.75
+STW time: 1819.010
+Concurrent time: 229.7453069
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 4
+Footprint: 325848
+Total execution time: 2:48.47
+STW time: 1273.333
+Concurrent time: 225.5410262
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 5
+Footprint: 302052
+Total execution time: 2:52.83
+STW time: 1558.506
+Concurrent time: 227.0462072
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 6
+Footprint: 224056
+Total execution time: 3:21.61
+STW time: 1838.641
+Concurrent time: 250.0261569
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 7
+Footprint: 386636
+Total execution time: 3:07.88
+STW time: 1783.173
+Concurrent time: 235.1709517
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 8
+Footprint: 373436
+Total execution time: 3:14.70
+STW time: 1636.718
+Concurrent time: 250.7777626
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 9
+Footprint: 398480
+Total execution time: 2:55.44
+STW time: 1764.209
+Concurrent time: 225.9802123
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 10
+Footprint: 185552
+Total execution time: 2:46.48
+STW time: 1381.137
+Concurrent time: 226.5562853
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 1
+Footprint: 216836
+Total execution time: 1:26.44
+STW time: 516.974
+Concurrent time: 117.7564259
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 2
+Footprint: 234596
+Total execution time: 1:24.65
+STW time: 487.592
+Concurrent time: 114.0526646
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 3
+Footprint: 313800
+Total execution time: 1:35.92
+STW time: 494.525
+Concurrent time: 118.6227541
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 4
+Footprint: 358372
+Total execution time: 1:36.08
+STW time: 487.573
+Concurrent time: 125.8968833
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 5
+Footprint: 195196
+Total execution time: 1:28.04
+STW time: 391.870
+Concurrent time: 117.2040533
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 6
+Footprint: 267180
+Total execution time: 1:27.74
+STW time: 595.020
+Concurrent time: 113.5205874
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 7
+Footprint: 157656
+Total execution time: 1:27.05
+STW time: 611.506
+Concurrent time: 109.2358721
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 8
+Footprint: 278656
+Total execution time: 1:33.95
+STW time: 511.356
+Concurrent time: 122.1266828
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 9
+Footprint: 240532
+Total execution time: 1:28.23
+STW time: 458.570
+Concurrent time: 114.2678990
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 10
+Footprint: 229556
+Total execution time: 1:28.78
+STW time: 515.064
+Concurrent time: 115.0394658
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 1
+Footprint: 202272
+Total execution time: 1:02.38
+STW time: 211.461
+Concurrent time: 72.0645611
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 2
+Footprint: 167436
+Total execution time: 1:02.66
+STW time: 201.981
+Concurrent time: 72.2360606
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 3
+Footprint: 178792
+Total execution time: 1:03.73
+STW time: 207.009
+Concurrent time: 73.0922924
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 4
+Footprint: 162392
+Total execution time: 1:03.57
+STW time: 180.411
+Concurrent time: 75.7766400
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 5
+Footprint: 212868
+Total execution time: 1:03.67
+STW time: 197.835
+Concurrent time: 69.8776181
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 6
+Footprint: 162780
+Total execution time: 1:03.62
+STW time: 211.880
+Concurrent time: 72.7058273
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 7
+Footprint: 195112
+Total execution time: 1:06.40
+STW time: 197.219
+Concurrent time: 74.0355233
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 8
+Footprint: 169120
+Total execution time: 1:04.79
+STW time: 210.628
+Concurrent time: 73.8798669
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 9
+Footprint: 182056
+Total execution time: 1:02.52
+STW time: 203.395
+Concurrent time: 72.6119210
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 10
+Footprint: 167620
+Total execution time: 1:02.98
+STW time: 222.895
+Concurrent time: 71.2049722
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 1
+Footprint: 167920
+Total execution time: 1:05.73
+STW time: 183.858
+Concurrent time: 73.2829687
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 2
+Footprint: 185584
+Total execution time: 1:04.23
+STW time: 186.144
+Concurrent time: 71.7757955
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 3
+Footprint: 155840
+Total execution time: 1:04.77
+STW time: 179.073
+Concurrent time: 72.8552619
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 4
+Footprint: 150840
+Total execution time: 1:05.83
+STW time: 188.250
+Concurrent time: 66.6707372
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 5
+Footprint: 176116
+Total execution time: 1:03.72
+STW time: 179.299
+Concurrent time: 67.8966751
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 6
+Footprint: 170500
+Total execution time: 1:01.36
+STW time: 170.351
+Concurrent time: 69.5870314
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 7
+Footprint: 163920
+Total execution time: 1:04.03
+STW time: 181.633
+Concurrent time: 68.8914461
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 8
+Footprint: 183092
+Total execution time: 1:02.56
+STW time: 170.883
+Concurrent time: 71.5388015
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 9
+Footprint: 176812
+Total execution time: 1:04.78
+STW time: 192.012
+Concurrent time: 73.0974816
+-------------------------------------
+Benchmark: GCBench
+Input: 24
+Used cores: 0-63
+Iteration: 10
+Footprint: 206912
+Total execution time: 1:03.85
+STW time: 189.722
+Concurrent time: 72.3858929
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 1
+Footprint: 347960
+Total execution time: 1:49.42
+STW time: 1641.039
+Concurrent time: 139.4257400
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 2
+Footprint: 322640
+Total execution time: 1:50.91
+STW time: 830.470
+Concurrent time: 143.2615261
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 3
+Footprint: 338496
+Total execution time: 1:50.18
+STW time: 1009.033
+Concurrent time: 145.2838767
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 4
+Footprint: 358012
+Total execution time: 1:54.06
+STW time: 3356.965
+Concurrent time: 144.4230421
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 5
+Footprint: 368072
+Total execution time: 1:50.31
+STW time: 802.876
+Concurrent time: 142.1166002
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 6
+Footprint: 324264
+Total execution time: 1:52.53
+STW time: 2154.308
+Concurrent time: 143.5563343
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 7
+Footprint: 356500
+Total execution time: 1:50.56
+STW time: 764.721
+Concurrent time: 139.9183119
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 8
+Footprint: 322024
+Total execution time: 1:54.68
+STW time: 2248.199
+Concurrent time: 145.2725248
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 9
+Footprint: 314520
+Total execution time: 1:53.30
+STW time: 3404.630
+Concurrent time: 139.4462029
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24
+Iteration: 10
+Footprint: 343192
+Total execution time: 1:54.57
+STW time: 3451.654
+Concurrent time: 143.9120058
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 1
+Footprint: 310184
+Total execution time: 1:11.74
+STW time: 1537.821
+Concurrent time: 92.2315982
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 2
+Footprint: 305892
+Total execution time: 1:07.68
+STW time: 2319.344
+Concurrent time: 81.6813708
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 3
+Footprint: 320748
+Total execution time: 1:06.73
+STW time: 808.480
+Concurrent time: 83.2964589
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 4
+Footprint: 318940
+Total execution time: 1:06.31
+STW time: 1551.042
+Concurrent time: 81.2002777
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 5
+Footprint: 322664
+Total execution time: 1:08.76
+STW time: 1029.604
+Concurrent time: 87.2674822
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 6
+Footprint: 316876
+Total execution time: 1:08.17
+STW time: 1240.113
+Concurrent time: 86.6429529
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 7
+Footprint: 322888
+Total execution time: 1:06.80
+STW time: 2238.442
+Concurrent time: 80.7838444
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 8
+Footprint: 363480
+Total execution time: 1:07.04
+STW time: 2313.418
+Concurrent time: 82.3617357
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 9
+Footprint: 333936
+Total execution time: 1:08.02
+STW time: 1055.751
+Concurrent time: 86.4125740
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 10
+Footprint: 290484
+Total execution time: 1:08.92
+STW time: 2406.263
+Concurrent time: 84.4932838
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 1
+Footprint: 290628
+Total execution time: 0:46.03
+STW time: 836.481
+Concurrent time: 56.9255469
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 2
+Footprint: 372476
+Total execution time: 0:44.13
+STW time: 562.668
+Concurrent time: 49.8577929
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 3
+Footprint: 300760
+Total execution time: 0:44.63
+STW time: 449.474
+Concurrent time: 54.5009620
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 4
+Footprint: 317568
+Total execution time: 0:44.23
+STW time: 877.111
+Concurrent time: 52.3956783
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 5
+Footprint: 319012
+Total execution time: 0:44.09
+STW time: 879.066
+Concurrent time: 49.7706810
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 6
+Footprint: 303472
+Total execution time: 0:41.90
+STW time: 922.393
+Concurrent time: 47.9277969
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 7
+Footprint: 296884
+Total execution time: 0:44.25
+STW time: 769.230
+Concurrent time: 50.4627126
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 8
+Footprint: 283468
+Total execution time: 0:44.52
+STW time: 740.366
+Concurrent time: 53.7781913
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 9
+Footprint: 286380
+Total execution time: 0:44.64
+STW time: 996.458
+Concurrent time: 53.2084146
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 10
+Footprint: 307516
+Total execution time: 0:45.60
+STW time: 659.743
+Concurrent time: 55.9094488
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 1
+Footprint: 275816
+Total execution time: 0:32.89
+STW time: 442.379
+Concurrent time: 33.7528667
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 2
+Footprint: 290700
+Total execution time: 0:34.81
+STW time: 430.221
+Concurrent time: 36.0247814
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 3
+Footprint: 359604
+Total execution time: 0:33.27
+STW time: 376.617
+Concurrent time: 34.0251779
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 4
+Footprint: 317832
+Total execution time: 0:37.36
+STW time: 464.242
+Concurrent time: 39.3920419
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 5
+Footprint: 325608
+Total execution time: 0:36.42
+STW time: 433.114
+Concurrent time: 39.1623152
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 6
+Footprint: 335080
+Total execution time: 0:33.27
+STW time: 463.322
+Concurrent time: 34.5535328
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 7
+Footprint: 287232
+Total execution time: 0:35.00
+STW time: 505.105
+Concurrent time: 36.7190126
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 8
+Footprint: 280392
+Total execution time: 0:33.79
+STW time: 348.183
+Concurrent time: 34.7184357
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 9
+Footprint: 339944
+Total execution time: 0:34.10
+STW time: 357.066
+Concurrent time: 34.9930578
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 10
+Footprint: 339160
+Total execution time: 0:36.78
+STW time: 550.650
+Concurrent time: 38.7170915
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 1
+Footprint: 366072
+Total execution time: 0:40.04
+STW time: 561.021
+Concurrent time: 40.7209823
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 2
+Footprint: 386968
+Total execution time: 0:35.11
+STW time: 448.915
+Concurrent time: 35.8304538
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 3
+Footprint: 318444
+Total execution time: 0:35.58
+STW time: 409.279
+Concurrent time: 35.9824472
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 4
+Footprint: 352964
+Total execution time: 0:34.80
+STW time: 414.350
+Concurrent time: 35.1641755
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 5
+Footprint: 323784
+Total execution time: 0:34.65
+STW time: 365.658
+Concurrent time: 35.3397230
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 6
+Footprint: 346348
+Total execution time: 0:35.64
+STW time: 473.574
+Concurrent time: 36.6246263
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 7
+Footprint: 290848
+Total execution time: 0:36.34
+STW time: 458.582
+Concurrent time: 37.4231462
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 8
+Footprint: 350032
+Total execution time: 0:35.98
+STW time: 441.638
+Concurrent time: 35.8921006
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 9
+Footprint: 308824
+Total execution time: 0:35.08
+STW time: 379.478
+Concurrent time: 35.2139211
+-------------------------------------
+Benchmark: GCBenchNT
+Input: 20
+Used cores: 0-63
+Iteration: 10
+Footprint: 334132
+Total execution time: 0:33.28
+STW time: 385.372
+Concurrent time: 34.0666050
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 1
+Footprint: 98204
+Total execution time: 1:01.04
+STW time: 703.049
+Concurrent time: 54.7730461
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 2
+Footprint: 102192
+Total execution time: 1:00.08
+STW time: 680.062
+Concurrent time: 53.2853965
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 3
+Footprint: 104172
+Total execution time: 0:59.21
+STW time: 647.721
+Concurrent time: 53.4118914
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 4
+Footprint: 104652
+Total execution time: 1:02.66
+STW time: 726.936
+Concurrent time: 56.9645538
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 5
+Footprint: 104300
+Total execution time: 0:59.78
+STW time: 673.528
+Concurrent time: 53.0813937
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 6
+Footprint: 114364
+Total execution time: 1:01.83
+STW time: 733.347
+Concurrent time: 58.5683183
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 7
+Footprint: 102524
+Total execution time: 1:02.87
+STW time: 718.609
+Concurrent time: 56.2999457
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 8
+Footprint: 97152
+Total execution time: 1:01.06
+STW time: 645.246
+Concurrent time: 56.4225707
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 9
+Footprint: 105464
+Total execution time: 1:00.24
+STW time: 830.089
+Concurrent time: 56.8925115
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24
+Iteration: 10
+Footprint: 107408
+Total execution time: 0:58.41
+STW time: 638.989
+Concurrent time: 52.5546877
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 1
+Footprint: 108048
+Total execution time: 0:44.81
+STW time: 760.080
+Concurrent time: 36.7861477
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 2
+Footprint: 102104
+Total execution time: 0:43.68
+STW time: 773.632
+Concurrent time: 37.4600968
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 3
+Footprint: 98184
+Total execution time: 0:41.53
+STW time: 790.877
+Concurrent time: 35.0870875
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 4
+Footprint: 106552
+Total execution time: 0:44.02
+STW time: 763.064
+Concurrent time: 38.1786161
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 5
+Footprint: 102964
+Total execution time: 0:42.93
+STW time: 784.218
+Concurrent time: 35.8704684
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 6
+Footprint: 104480
+Total execution time: 0:43.40
+STW time: 826.744
+Concurrent time: 36.2948385
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 7
+Footprint: 97768
+Total execution time: 0:42.96
+STW time: 758.092
+Concurrent time: 35.4738393
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 8
+Footprint: 102772
+Total execution time: 0:42.90
+STW time: 758.652
+Concurrent time: 35.0802641
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 9
+Footprint: 110612
+Total execution time: 0:44.32
+STW time: 814.993
+Concurrent time: 38.5977124
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60
+Iteration: 10
+Footprint: 98888
+Total execution time: 0:42.86
+STW time: 795.966
+Concurrent time: 36.0120613
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 1
+Footprint: 100800
+Total execution time: 0:35.05
+STW time: 749.481
+Concurrent time: 28.0256166
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 2
+Footprint: 96176
+Total execution time: 0:35.09
+STW time: 783.609
+Concurrent time: 28.7194275
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 3
+Footprint: 103000
+Total execution time: 0:37.97
+STW time: 787.810
+Concurrent time: 30.4995021
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 4
+Footprint: 109488
+Total execution time: 0:37.62
+STW time: 806.512
+Concurrent time: 29.7180196
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 5
+Footprint: 106292
+Total execution time: 0:34.50
+STW time: 781.308
+Concurrent time: 28.1496394
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 6
+Footprint: 104772
+Total execution time: 0:37.72
+STW time: 776.786
+Concurrent time: 31.0122610
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 7
+Footprint: 104368
+Total execution time: 0:36.37
+STW time: 759.990
+Concurrent time: 29.1088396
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 8
+Footprint: 98180
+Total execution time: 0:33.66
+STW time: 813.238
+Concurrent time: 25.6521725
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 9
+Footprint: 103788
+Total execution time: 0:34.92
+STW time: 673.470
+Concurrent time: 27.5565407
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+Iteration: 10
+Footprint: 99488
+Total execution time: 0:34.65
+STW time: 771.985
+Concurrent time: 27.7402630
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 1
+Footprint: 101412
+Total execution time: 0:24.00
+STW time: 481.118
+Concurrent time: 17.1648510
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 2
+Footprint: 106268
+Total execution time: 0:27.10
+STW time: 577.251
+Concurrent time: 20.3740166
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 3
+Footprint: 103256
+Total execution time: 0:25.08
+STW time: 572.922
+Concurrent time: 17.6508488
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 4
+Footprint: 104276
+Total execution time: 0:25.83
+STW time: 537.134
+Concurrent time: 19.7126711
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 5
+Footprint: 98704
+Total execution time: 0:24.73
+STW time: 490.406
+Concurrent time: 17.3505482
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 6
+Footprint: 104112
+Total execution time: 0:27.37
+STW time: 574.410
+Concurrent time: 19.8293237
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 7
+Footprint: 109008
+Total execution time: 0:23.81
+STW time: 500.343
+Concurrent time: 16.9649892
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 8
+Footprint: 103112
+Total execution time: 0:25.99
+STW time: 562.196
+Concurrent time: 19.5318631
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 9
+Footprint: 101996
+Total execution time: 0:24.31
+STW time: 484.213
+Concurrent time: 16.8291241
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+Iteration: 10
+Footprint: 104896
+Total execution time: 0:26.46
+STW time: 564.795
+Concurrent time: 19.7021037
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 1
+Footprint: 104836
+Total execution time: 0:19.56
+STW time: 462.239
+Concurrent time: 8.6176605
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 2
+Footprint: 112164
+Total execution time: 0:18.82
+STW time: 405.407
+Concurrent time: 10.3443266
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 3
+Footprint: 100636
+Total execution time: 0:18.39
+STW time: 371.627
+Concurrent time: 9.5337481
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 4
+Footprint: 110892
+Total execution time: 0:16.77
+STW time: 308.233
+Concurrent time: 9.7018354
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 5
+Footprint: 101444
+Total execution time: 0:20.26
+STW time: 443.243
+Concurrent time: 11.6611071
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 6
+Footprint: 107696
+Total execution time: 0:20.43
+STW time: 444.751
+Concurrent time: 11.0201858
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 7
+Footprint: 95740
+Total execution time: 0:20.76
+STW time: 505.732
+Concurrent time: 11.8328026
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 8
+Footprint: 101992
+Total execution time: 0:19.69
+STW time: 426.316
+Concurrent time: 10.3692360
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 9
+Footprint: 101192
+Total execution time: 0:21.89
+STW time: 489.052
+Concurrent time: 13.2061306
+-------------------------------------
+Benchmark: ring
+Input: 128 10 500000
+Used cores: 0-63
+Iteration: 10
+Footprint: 102232
+Total execution time: 0:19.71
+STW time: 432.019
+Concurrent time: 10.4194169
+-------------------------------------

@@ -1,0 +1,110 @@
+### Cores: 0,8,16,24
+*** Iteration 1
+(time memory): (133.59 83860)
+Time spent in send (excluding size & copy): 0:29.386 797 Time spent in size: 0:06.351 392 Time spent in copy: 0:06.351 329
+
+*** Iteration 2
+(time memory): (133.02 83920)
+Time spent in send (excluding size & copy): 0:29.293 989 Time spent in size: 0:06.918 035 Time spent in copy: 0:07.014 044
+
+*** Iteration 3
+(time memory): (132.89 83708)
+Time spent in send (excluding size & copy): 0:29.689 154 Time spent in size: 0:06.591 695 Time spent in copy: 0:06.542 877
+
+*** Iteration 4
+(time memory): (133.63 83840)
+Time spent in send (excluding size & copy): 0:30.366 122 Time spent in size: 0:07.152 753 Time spent in copy: 0:07.207 774
+
+*** Iteration 5
+(time memory): (133.41 83676)
+Time spent in send (excluding size & copy): 0:29.471 752 Time spent in size: 0:06.437 680 Time spent in copy: 0:06.460 399
+
+
+### Cores: 0,8,16,24,32,40,48,60
+*** Iteration 1
+(time memory): (123.21 83508)
+Time spent in send (excluding size & copy): 0:45.605 999 Time spent in size: 0:16.248 625 Time spent in copy: 0:15.702 608
+
+*** Iteration 2
+(time memory): (121.50 84864)
+Time spent in send (excluding size & copy): 0:36.868 043 Time spent in size: 0:13.090 080 Time spent in copy: 0:13.248 672
+
+*** Iteration 3
+(time memory): (123.41 83716)
+Time spent in send (excluding size & copy): 0:45.361 274 Time spent in size: 0:16.188 274 Time spent in copy: 0:15.551 176
+
+*** Iteration 4
+(time memory): (123.80 84172)
+Time spent in send (excluding size & copy): 0:45.869 656 Time spent in size: 0:16.331 777 Time spent in copy: 0:15.718 756
+
+*** Iteration 5
+(time memory): (121.91 84052)
+Time spent in send (excluding size & copy): 0:34.383 980 Time spent in size: 0:12.234 316 Time spent in copy: 0:12.501 456
+
+
+### Cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+*** Iteration 1
+(time memory): (139.93 85156)
+Time spent in send (excluding size & copy): 1:09.968 205 Time spent in size: 0:38.842 520 Time spent in copy: 0:20.200 304
+
+*** Iteration 2
+(time memory): (139.66 84628)
+Time spent in send (excluding size & copy): 1:09.881 446 Time spent in size: 0:39.173 351 Time spent in copy: 0:19.864 953
+
+*** Iteration 3
+(time memory): (141.60 84180)
+Time spent in send (excluding size & copy): 1:23.628 901 Time spent in size: 0:42.850 315 Time spent in copy: 0:23.806 450
+
+*** Iteration 4
+(time memory): (141.03 84648)
+Time spent in send (excluding size & copy): 1:21.997 181 Time spent in size: 0:41.979 432 Time spent in copy: 0:23.270 133
+
+*** Iteration 5
+(time memory): (140.62 84372)
+Time spent in send (excluding size & copy): 1:08.927 183 Time spent in size: 0:39.498 716 Time spent in copy: 0:19.384 606
+
+
+### Cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+*** Iteration 1
+(time memory): (141.89 84200)
+Time spent in send (excluding size & copy): 1:33.286 888 Time spent in size: 0:55.296 029 Time spent in copy: 0:25.250 383
+
+*** Iteration 2
+(time memory): (141.97 85344)
+Time spent in send (excluding size & copy): 1:22.821 222 Time spent in size: 0:54.485 349 Time spent in copy: 0:22.905 345
+
+*** Iteration 3
+(time memory): (142.37 84820)
+Time spent in send (excluding size & copy): 1:33.807 060 Time spent in size: 0:55.775 464 Time spent in copy: 0:25.389 141
+
+*** Iteration 4
+(time memory): (142.15 85312)
+Time spent in send (excluding size & copy): 1:36.455 520 Time spent in size: 0:57.746 406 Time spent in copy: 0:26.400 096
+
+*** Iteration 5
+(time memory): (142.93 85808)
+Time spent in send (excluding size & copy): 1:36.067 439 Time spent in size: 0:58.413 444 Time spent in copy: 0:26.283 956
+
+
+### Cores: 0-63
+*** Iteration 1
+(time memory): (116.48 86196)
+Time spent in send (excluding size & copy): 1:49.338 457 Time spent in size: 0:46.646 678 Time spent in copy: 0:31.774 613
+
+*** Iteration 2
+(time memory): (117.67 85792)
+Time spent in send (excluding size & copy): 1:59.788 115 Time spent in size: 0:49.914 282 Time spent in copy: 0:35.077 506
+
+*** Iteration 3
+(time memory): (114.14 85572)
+Time spent in send (excluding size & copy): 1:49.055 766 Time spent in size: 0:38.237 323 Time spent in copy: 0:33.891 876
+
+*** Iteration 4
+(time memory): (113.65 85612)
+Time spent in send (excluding size & copy): 1:36.383 924 Time spent in size: 0:34.870 196 Time spent in copy: 0:29.896 192
+
+*** Iteration 5
+(time memory): (113.94 85444)
+Time spent in send (excluding size & copy): 1:48.622 712 Time spent in size: 0:38.536 537 Time spent in copy: 0:34.071 054
+
+

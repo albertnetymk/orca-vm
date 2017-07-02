@@ -1,0 +1,160 @@
+### Cores: 0,8,16,24
+*** Iteration 1
+(time memory): (11.87 471484)
+
+*** Iteration 2
+(time memory): (11.47 433264)
+
+*** Iteration 3
+(time memory): (10.62 431400)
+
+*** Iteration 4
+(time memory): (10.49 433208)
+
+*** Iteration 5
+(time memory): (11.48 430196)
+
+*** Iteration 6
+(time memory): (12.27 452352)
+
+*** Iteration 7
+(time memory): (9.22 430452)
+
+*** Iteration 8
+(time memory): (10.92 438220)
+
+*** Iteration 9
+(time memory): (10.53 436580)
+
+*** Iteration 10
+(time memory): (12.22 453516)
+
+
+### Cores: 0,8,16,24,32,40,48,60
+*** Iteration 1
+(time memory): (11.65 433464)
+
+*** Iteration 2
+(time memory): (11.70 424848)
+
+*** Iteration 3
+(time memory): (11.05 427988)
+
+*** Iteration 4
+(time memory): (13.53 461660)
+
+*** Iteration 5
+(time memory): (13.18 445804)
+
+*** Iteration 6
+(time memory): (13.65 460516)
+
+*** Iteration 7
+(time memory): (11.75 429292)
+
+*** Iteration 8
+(time memory): (10.43 415592)
+
+*** Iteration 9
+(time memory): (11.88 436724)
+
+*** Iteration 10
+(time memory): (17.44 499012)
+
+
+### Cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+*** Iteration 1
+(time memory): (14.30 423456)
+
+*** Iteration 2
+(time memory): (15.76 460736)
+
+*** Iteration 3
+(time memory): (14.54 419860)
+
+*** Iteration 4
+(time memory): (13.35 422928)
+
+*** Iteration 5
+(time memory): (16.51 471156)
+
+*** Iteration 6
+(time memory): (14.83 423788)
+
+*** Iteration 7
+(time memory): (13.12 423732)
+
+*** Iteration 8
+(time memory): (14.93 419244)
+
+*** Iteration 9
+(time memory): (15.22 437780)
+
+*** Iteration 10
+(time memory): (15.77 460388)
+
+
+### Cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+*** Iteration 1
+(time memory): (14.90 419796)
+
+*** Iteration 2
+(time memory): (15.85 423456)
+
+*** Iteration 3
+(time memory): (16.49 424068)
+
+*** Iteration 4
+(time memory): (16.10 421284)
+
+*** Iteration 5
+(time memory): (15.56 415208)
+
+*** Iteration 6
+(time memory): (15.35 416592)
+
+*** Iteration 7
+(time memory): (15.04 422424)
+
+*** Iteration 8
+(time memory): (16.63 435404)
+
+*** Iteration 9
+(time memory): (17.37 418948)
+
+*** Iteration 10
+(time memory): (14.83 419076)
+
+
+### Cores: 0-63
+*** Iteration 1
+(time memory): (21.08 427152)
+
+*** Iteration 2
+(time memory): (18.18 415596)
+
+*** Iteration 3
+(time memory): (20.37 418048)
+
+*** Iteration 4
+(time memory): (19.59 415816)
+
+*** Iteration 5
+(time memory): (20.51 418064)
+
+*** Iteration 6
+(time memory): (20.38 420276)
+
+*** Iteration 7
+(time memory): (20.38 416744)
+
+*** Iteration 8
+(time memory): (17.77 429028)
+
+*** Iteration 9
+(time memory): (20.51 417308)
+
+*** Iteration 10
+(time memory): (20.24 418084)
+
+

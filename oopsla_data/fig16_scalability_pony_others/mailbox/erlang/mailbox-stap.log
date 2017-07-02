@@ -1,0 +1,110 @@
+### Cores: 0,8,16,24
+*** Iteration 1
+(time memory): (12.22 134640)
+gc_major: sum:58 num:21 gc_minor: sum:217 num:300
+
+*** Iteration 2
+(time memory): (10.15 335176)
+gc_major: sum:57 num:21 gc_minor: sum:777 num:271
+
+*** Iteration 3
+(time memory): (10.21 335836)
+gc_major: sum:57 num:21 gc_minor: sum:782 num:272
+
+*** Iteration 4
+(time memory): (10.39 249896)
+gc_major: sum:63 num:21 gc_minor: sum:525 num:283
+
+*** Iteration 5
+(time memory): (11.27 215532)
+gc_major: sum:64 num:21 gc_minor: sum:394 num:289
+
+
+### Cores: 0,8,16,24,32,40,48,60
+*** Iteration 1
+(time memory): (10.79 301052)
+gc_major: sum:101 num:21 gc_minor: sum:742 num:269
+
+*** Iteration 2
+(time memory): (11.12 487676)
+gc_major: sum:96 num:21 gc_minor: sum:1299 num:268
+
+*** Iteration 3
+(time memory): (11.04 303976)
+gc_major: sum:108 num:21 gc_minor: sum:772 num:269
+
+*** Iteration 4
+(time memory): (11.20 287460)
+gc_major: sum:46 num:21 gc_minor: sum:693 num:270
+
+*** Iteration 5
+(time memory): (11.22 211736)
+gc_major: sum:14 num:21 gc_minor: sum:519 num:325
+
+
+### Cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58
+*** Iteration 1
+(time memory): (8.52 400032)
+gc_major: sum:321 num:21 gc_minor: sum:1006 num:268
+
+*** Iteration 2
+(time memory): (7.79 111780)
+gc_major: sum:80 num:21 gc_minor: sum:128 num:309
+
+*** Iteration 3
+(time memory): (8.91 473040)
+gc_major: sum:361 num:21 gc_minor: sum:1038 num:268
+
+*** Iteration 4
+(time memory): (8.85 456572)
+gc_major: sum:330 num:21 gc_minor: sum:1102 num:268
+
+*** Iteration 5
+(time memory): (8.74 431248)
+gc_major: sum:322 num:21 gc_minor: sum:995 num:268
+
+
+### Cores: 0,8,16,24,32,40,48,60,2,10,18,26,34,42,50,58,3,11,19,27,35,43,51,59,1,9,17,25,33,41,49,57
+*** Iteration 1
+(time memory): (8.64 613036)
+gc_major: sum:1193 num:21 gc_minor: sum:315 num:266
+
+*** Iteration 2
+(time memory): (8.56 512520)
+gc_major: sum:907 num:21 gc_minor: sum:685 num:267
+
+*** Iteration 3
+(time memory): (8.55 585724)
+gc_major: sum:1172 num:21 gc_minor: sum:460 num:266
+
+*** Iteration 4
+(time memory): (8.74 505584)
+gc_major: sum:842 num:21 gc_minor: sum:664 num:267
+
+*** Iteration 5
+(time memory): (8.82 602552)
+gc_major: sum:1457 num:21 gc_minor: sum:984 num:267
+
+
+### Cores: 0-63
+*** Iteration 1
+(time memory): (18.18 554572)
+gc_major: sum:2072 num:21 gc_minor: sum:652 num:267
+
+*** Iteration 2
+(time memory): (17.49 658324)
+gc_major: sum:1234 num:21 gc_minor: sum:497 num:266
+
+*** Iteration 3
+(time memory): (17.57 594812)
+gc_major: sum:765 num:21 gc_minor: sum:1417 num:266
+
+*** Iteration 4
+(time memory): (17.97 594316)
+gc_major: sum:649 num:21 gc_minor: sum:1177 num:266
+
+*** Iteration 5
+(time memory): (18.00 599348)
+gc_major: sum:772 num:21 gc_minor: sum:1351 num:266
+
+

@@ -1,0 +1,780 @@
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 46
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 11787
+Number of messages copied: 11789
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.592 172
+Time spent in send (excluding size & copy): 0:00.010 973
+Time spent in size: 0:00.002 528
+Time spent in copy: 0:00.003 778
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 3400396
+Number of messages copied: 3417228
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:01.735 799
+Time spent in send (excluding size & copy): 0:01.623 675
+Time spent in size: 0:00.388 655
+Time spent in copy: 0:00.390 547
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 25103
+Number of messages copied: 25351
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.161 096
+Time spent in send (excluding size & copy): 0:00.015 233
+Time spent in size: 0:00.005 544
+Time spent in copy: 0:00.005 742
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1299
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 10514
+Number of messages copied: 10412
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.156 486
+Time spent in send (excluding size & copy): 0:00.009 418
+Time spent in size: 0:00.005 108
+Time spent in copy: 0:00.003 379
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 15
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 608
+Number of messages copied: 608
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.104 409
+Time spent in send (excluding size & copy): 0:00.000 404
+Time spent in size: 0:00.000 179
+Time spent in copy: 0:00.000 246
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1299
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 19341
+Number of messages copied: 18774
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.162 080
+Time spent in send (excluding size & copy): 0:00.019 371
+Time spent in size: 0:00.007 141
+Time spent in copy: 0:00.006 816
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 46
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 11776
+Number of messages copied: 11780
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.594 497
+Time spent in send (excluding size & copy): 0:00.010 747
+Time spent in size: 0:00.002 348
+Time spent in copy: 0:00.003 814
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62877739
+Number of messages copied: 63214001
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:30.593 017
+Time spent in send (excluding size & copy): 0:29.995 329
+Time spent in size: 0:06.918 494
+Time spent in copy: 0:06.981 445
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62905423
+Number of messages copied: 63207300
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:30.092 539
+Time spent in send (excluding size & copy): 0:29.249 345
+Time spent in size: 0:06.739 480
+Time spent in copy: 0:06.825 180
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62894660
+Number of messages copied: 63494660
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:29.720 851
+Time spent in send (excluding size & copy): 0:28.829 064
+Time spent in size: 0:06.422 924
+Time spent in copy: 0:06.449 022
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62912108
+Number of messages copied: 63205941
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:30.875 018
+Time spent in send (excluding size & copy): 0:30.567 350
+Time spent in size: 0:07.063 894
+Time spent in copy: 0:07.115 313
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62812554
+Number of messages copied: 63233982
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:30.065 455
+Time spent in send (excluding size & copy): 0:30.081 865
+Time spent in size: 0:07.007 134
+Time spent in copy: 0:07.052 438
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62877292
+Number of messages copied: 63482388
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:29.733 690
+Time spent in send (excluding size & copy): 0:29.413 526
+Time spent in size: 0:06.674 009
+Time spent in copy: 0:06.617 904
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62903085
+Number of messages copied: 63509213
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:31.001 720
+Time spent in send (excluding size & copy): 0:29.448 903
+Time spent in size: 0:06.318 921
+Time spent in copy: 0:06.321 360
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62888383
+Number of messages copied: 63208141
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:30.706 149
+Time spent in send (excluding size & copy): 0:30.298 766
+Time spent in size: 0:07.049 988
+Time spent in copy: 0:07.103 979
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62888906
+Number of messages copied: 63485857
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:30.267 350
+Time spent in send (excluding size & copy): 0:29.816 822
+Time spent in size: 0:06.659 942
+Time spent in copy: 0:06.614 832
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 62869097
+Number of messages copied: 63182100
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:29.937 898
+Time spent in send (excluding size & copy): 0:29.970 543
+Time spent in size: 0:07.077 263
+Time spent in copy: 0:07.177 585
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 61152646
+Number of messages copied: 61253480
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:31.805 825
+Time spent in send (excluding size & copy): 0:45.612 066
+Time spent in size: 0:16.227 656
+Time spent in copy: 0:15.668 321
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 61022186
+Number of messages copied: 61499045
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:26.766 218
+Time spent in send (excluding size & copy): 0:37.884 599
+Time spent in size: 0:13.289 656
+Time spent in copy: 0:13.446 242
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 61229202
+Number of messages copied: 61321973
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:30.937 853
+Time spent in send (excluding size & copy): 0:43.467 169
+Time spent in size: 0:15.664 064
+Time spent in copy: 0:15.221 167
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 61054038
+Number of messages copied: 61154153
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:32.931 337
+Time spent in send (excluding size & copy): 0:47.088 452
+Time spent in size: 0:16.772 850
+Time spent in copy: 0:16.127 736
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 60993790
+Number of messages copied: 61366836
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:26.513 719
+Time spent in send (excluding size & copy): 0:36.749 686
+Time spent in size: 0:13.047 325
+Time spent in copy: 0:13.222 174
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 61166779
+Number of messages copied: 61249397
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:31.460 491
+Time spent in send (excluding size & copy): 0:44.292 500
+Time spent in size: 0:15.981 373
+Time spent in copy: 0:15.452 262
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 60935960
+Number of messages copied: 61445291
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:27.043 529
+Time spent in send (excluding size & copy): 0:37.928 098
+Time spent in size: 0:13.312 715
+Time spent in copy: 0:13.378 801
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 61203906
+Number of messages copied: 61288688
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:31.155 216
+Time spent in send (excluding size & copy): 0:43.911 350
+Time spent in size: 0:15.795 685
+Time spent in copy: 0:15.302 017
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 61105362
+Number of messages copied: 61350958
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:26.703 498
+Time spent in send (excluding size & copy): 0:37.091 067
+Time spent in size: 0:13.176 043
+Time spent in copy: 0:13.334 012
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 7979088
+Number of messages copied: 7994835
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:04.349 921
+Time spent in send (excluding size & copy): 0:05.998 840
+Time spent in size: 0:02.138 111
+Time spent in copy: 0:02.044 295
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 54790
+Number of messages copied: 52370
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.179 621
+Time spent in send (excluding size & copy): 0:00.058 525
+Time spent in size: 0:00.034 008
+Time spent in copy: 0:00.016 646
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 1311
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 615822
+Number of messages copied: 612553
+Number of messages sent to self: 0
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.864 061
+Time spent in send (excluding size & copy): 0:01.601 242
+Time spent in size: 0:00.643 649
+Time spent in copy: 0:00.467 321
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
+-------------------------------------------------------------------------
+The counters are reset at system start and are sums over the entire node.
+You may reset them manually using the BIFs in the module hipe_bifs.
+All times are given in milliseconds.
+-------------------------------------------------------------------------
+Node: 'nonode@nohost'
+Number of processes spawned: 51
+Number of local minor GCs: 0
+Number of local major GCs: 0
+Number of messages sent: 1101
+Number of messages copied: 1098
+Number of messages sent to self: 3
+--- The total active system time is the sum of all times below ---
+Mutator time: 0:00.183 646
+Time spent in send (excluding size & copy): 0:00.000 878
+Time spent in size: 0:00.000 268
+Time spent in copy: 0:00.000 430
+Time spent in local minor GC: 0:00.000 000
+Time spent in local major GC: 0:00.000 000
+Time spent in global minor GC: 0:00.000 000
+Time spent in global major GC: 0:00.000 000
+---
+Maximum time spent in one separate local minor GC: 0:00.000 000
+Maximum time spent in one separate local major GC: 0:00.000 000
+Maximum time spent in one separate global minor GC: 0:00.000 000
+Maximum time spent in one separate global major GC: 0:00.000 000
