@@ -22,14 +22,14 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   apt-get -yq upgrade
   apt-get -yq install atool git build-essential autoconf ncurses-dev
 
-  ## Scala/Akka
+  # Scala/Akka
 
   apt-get install -y openjdk-8-jdk
   test -e scala-2.11.6.tgz || wget https://downloads.lightbend.com/scala/2.11.6/scala-2.11.6.tgz
   aunpack scala-2.11.6.tgz
   echo 'PATH="/home/vagrant/scala-2.11.6/bin:$PATH"' >> /home/vagrant/.bashrc
 
-  ## Erlang
+  # Erlang
 
   cd /vagrant
   cp -r otp* /home/vagrant
@@ -61,9 +61,20 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # /home/vagrant/otp-msg/bin
   # /home/vagrant/otp-systemtap/bin
 
-  ## Pony
+  # Pony
+
+  apt-get install zlib1g-dev libssl-dev llvm-3.8-dev libpcre2-dev
+  test -e ponyc || git clone --depth 1 https://github.com/jupvfranco/ponyc.git
+  cd ponyc
+  make clean; make
+  make use=telemetry clean; make use=telemetry
+
+  # dont include pony release in PATH; must call them using explicit path
+  # /home/vagrant/ponyc/build/release
+  # /home/vagrant/ponyc/build/release-telemetry
 
   SCRIPT
 
   config.vm.provision "shell", inline: $script
+
 end
