@@ -63,7 +63,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Pony
 
-  apt-get install zlib1g-dev libssl-dev llvm-3.8-dev libpcre2-dev
+  apt-get -yq install zlib1g-dev libssl-dev llvm-3.8-dev libpcre2-dev
   test -e ponyc || git clone --depth 1 https://github.com/jupvfranco/ponyc.git
   cd ponyc
   make clean; make
