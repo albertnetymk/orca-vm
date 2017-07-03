@@ -77,6 +77,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   # dont include pony release in PATH; must call them using explicit path
   # /home/vagrant/ponyc/build/release
   # /home/vagrant/ponyc/build/release-telemetry
+  # /home/vagrant/ponyc/build/release-nogc
 
   SCRIPT
 
