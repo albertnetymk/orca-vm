@@ -27,37 +27,37 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # Scala/Akka
 
-  apt-get install -y openjdk-8-jdk
-  test -e scala-2.11.6.tgz || wget https://downloads.lightbend.com/scala/2.11.6/scala-2.11.6.tgz
-  aunpack scala-2.11.6.tgz
-  echo 'PATH="/home/vagrant/scala-2.11.6/bin:$PATH"' >> /home/vagrant/.bashrc
+  # apt-get install -y openjdk-8-jdk
+  # test -e scala-2.11.6.tgz || wget https://downloads.lightbend.com/scala/2.11.6/scala-2.11.6.tgz
+  # aunpack scala-2.11.6.tgz
+  # echo 'PATH="/home/vagrant/scala-2.11.6/bin:$PATH"' >> /home/vagrant/.bashrc
 
   # Erlang
 
-  cd /vagrant
-  cp -r otp* /home/vagrant
-  cd /home/vagrant
+  # cd /vagrant
+  # cp -r otp* /home/vagrant
+  # cd /home/vagrant
 
-  cd otp-default
-  ./otp_build autoconf
-  ./configure
-  make clean
-  make
-  cd ..
+  # cd otp-default
+  # ./otp_build autoconf
+  # ./configure
+  # make clean
+  # make
+  # cd ..
 
-  cd otp-msg
-  ./otp_build autoconf
-  ./configure
-  make clean
-  make
-  cd ..
+  # cd otp-msg
+  # ./otp_build autoconf
+  # ./configure
+  # make clean
+  # make
+  # cd ..
 
-  cd otp-systemtap
-  ./otp_build autoconf
-  ./configure
-  make clean
-  make
-  cd ..
+  # cd otp-systemtap
+  # ./otp_build autoconf
+  # ./configure
+  # make clean
+  # make
+  # cd ..
 
   # dont include Erlang bin in PATH; must call them using explicit path
   # /home/vagrant/otp-default/bin
