@@ -11,4 +11,4 @@ rm -f pony
 logfile="orca.responsivness.$whichpony.log"
 rm -f $logfile
 
-./pony $input --ponynoblock | python ../../../run/massage.py $input >> $logfile
+./pony $input --ponynoblock | python /run/massage.py $input >> $logfile

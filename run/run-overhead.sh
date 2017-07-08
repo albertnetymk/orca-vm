@@ -1,6 +1,5 @@
 #!/bin/bash 
 
-whichpony=$1 # release or release-telemetry or release-nogc
 benchmark=$1
 input=$2
 
